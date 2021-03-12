@@ -4,7 +4,7 @@ ruby "2.0.0"
 
 gem "sinatra", "~> 1.4.4", :require => "sinatra/base"
 gem "rack", "~> 1.5.2"
-gem "rake", "~> 10.1.0"
+gem "rake", "~> 12.3.3"
 
 group :development, :test do
   gem "debugger", "~> 1.6.2"
